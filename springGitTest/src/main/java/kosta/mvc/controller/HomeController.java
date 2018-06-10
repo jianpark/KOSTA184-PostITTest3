@@ -59,4 +59,8 @@ public class HomeController {
 	public void onething() {
 		
 	}
+	
+	public String minjun() {
+		return "ȣȣ";
+	}
 }
