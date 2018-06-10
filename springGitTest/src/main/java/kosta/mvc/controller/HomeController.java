@@ -48,4 +48,7 @@ public class HomeController {
 	public String jian() {
 		return "æ»≥Á";
 	}
+	public String jian2() {
+		return "æ»≥Á«œººø‰";
+	}
 }
