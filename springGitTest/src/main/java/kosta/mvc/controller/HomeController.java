@@ -40,4 +40,8 @@ public class HomeController {
 	public void test() {
 
 	}
+	
+	public String jian() {
+		return "¾È³ç";
+	}
 }
