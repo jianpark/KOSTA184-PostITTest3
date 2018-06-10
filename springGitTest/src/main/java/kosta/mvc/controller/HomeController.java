@@ -37,7 +37,7 @@ public class HomeController {
 	}
 	
 	public void Nayoun() {
-		System.out.println("ÀÀ");
+		System.out.println("ï¿½ï¿½");
 	}
 	
 	
@@ -46,9 +46,13 @@ public class HomeController {
 	}
 	
 	public String jian() {
-		return "¾È³ç";
+		return "ï¿½È³ï¿½";
 	}
 	public String jian2() {
-		return "¾È³çÇÏ¼¼¿ä";
+		return "ï¿½È³ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½";
+	}
+	
+	public String June() {
+		return "hi";
 	}
 }
