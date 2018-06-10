@@ -55,4 +55,8 @@ public class HomeController {
 	public String June() {
 		return "hi";
 	}
+	
+	public String minjun() {
+		return "ȣȣ";
+	}
 }
