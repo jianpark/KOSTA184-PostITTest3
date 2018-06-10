@@ -40,4 +40,12 @@ public class HomeController {
 		System.out.println("¿¿");
 	}
 	
+	
+	public void test() {
+
+	}
+	
+	public String jian() {
+		return "æ»≥Á";
+	}
 }
