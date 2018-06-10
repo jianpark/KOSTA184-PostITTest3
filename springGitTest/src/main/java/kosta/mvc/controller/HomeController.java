@@ -36,4 +36,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	public void Nayoun() {
+		System.out.println("¿¿");
+	}
+	
 }
